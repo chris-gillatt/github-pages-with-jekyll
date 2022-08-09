@@ -1,5 +1,12 @@
 ---
-title: "Welcome to my blog"
+title: "This is a test title"
 ---
 
-I'm glad you are here. I plan to talk about ...
+so much to say and such little time...
+
+
+```
+this is some code
+```
+
+`this is inline`
